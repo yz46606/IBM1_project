@@ -22,13 +22,15 @@ done
 # convert to condon alignment
 done
 # build plants kindom gene tree
-done
+![Optional Text](./png/1.tree.jmjC.1-02.png)
 # dN/dS selection test in brasecasea
-done
+![Optional Text](./png/IBM1.dnds-01.tree.png)
 # CMT3/IBM1 gene loss and gain in brasecasea (need further confirm)
 done (need further confirm, make sure its deal to real loss, not from annotation error)
+![Optional Text](./png/lossevents.ibm1,cmt3-01.png)
 # Exploring in the large intron region of CMT3 loss species
 intron length changes and methylation changes (partly done. exploring more methylome is needed)
+![Optional Text](./png/genestructure.IBM1-01.png)
 # suggestions and ideas for next steps
 1. Bob-find the IBM1 TE expression related paper  
 2. Bob-this repeat are specific repeat or general repeats?  
