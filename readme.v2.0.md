@@ -43,11 +43,14 @@ intron length changes and methylation changes (partly done. exploring more methy
 9. Zefu-the repeat is different from true transponan, since they do not facilitate the accumulation of H3K9.  
 So what is the type of those repeats?  
 10. Zefu-combine more this type of intron methylation, see if there have some general pattern difference from transponable   elements.interms of H3K9 concentration, transpon type  
+# select more species outside brassecacea
+1. genome file and annotation file
+2. extract their intron
 # the next step is explore more about sequence of intron region 
-1. extract the sequence in this region  
-2. do the alignment  
-3. do the meme analysis  
-4. blast to tranponse database  
+1. extract the sequence in this region for all investigate species(48braceccea+other species) 
+2. do the meme analysis  
+3. repeat dot plot? 
+4. other analysis inspired from other paper?
 # built the species tree of brassecacea used in my analysis  
 built the concatenate species tree pipeline
 1. find the single copy gene list
