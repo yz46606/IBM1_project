@@ -71,3 +71,4 @@ So what is the type of those repeats?
 6.2. extract the protein sequence for each gene and do the alignment
 6.3. concated all alignments
 6.4. build ML tree/bootstrap
+7. Trying to link the sequence and methylation changes in IBM1 to the methylation landscape.
