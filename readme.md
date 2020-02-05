@@ -67,8 +67,8 @@ So what is the type of those repeats?
 4. Analysis the TE insertion and deletion events are from a same common ancestor, or an events frequently happened among different linkage.
 5. check if the gene loss/gain of CMT3/IBM1 analysis is reliable. to exclude the possibility of gene annotation error, maping arabidosis IBM1 gene directly to the whole genome reference. maybe also consider synteny analysis.
 6. built the concatenate species tree pipeline
-6.1. find the single copy gene list
-6.2. extract the protein sequence for each gene and do the alignment
-6.3. concated all alignments
-6.4. build ML tree/bootstrap
+find the single copy gene list
+extract the protein sequence for each gene and do the alignment
+concated all alignments
+build ML tree/bootstrap
 7. Trying to link the sequence and methylation changes in IBM1 to the methylation landscape.
