@@ -64,11 +64,11 @@ So what is the type of those repeats?
 2. do the TE/repeat define analysis. repeatmarker,meme?
 3. TE repeat dot related analysis among different species.
 4. expand the evolution of IBM1 gene structure analysis to all species.
-4. Analysis the TE insertion and deletion events are from a same common ancestor, or an events frequently happened among different linkage.
-5. check if the gene loss/gain of CMT3/IBM1 analysis is reliable. to exclude the possibility of gene annotation error, maping arabidosis IBM1 gene directly to the whole genome reference. maybe also consider synteny analysis.
-6. built the concatenate species tree pipeline
-find the single copy gene list
-extract the protein sequence for each gene and do the alignment
-concated all alignments
-build ML tree/bootstrap
-7. Trying to link the sequence and methylation changes in IBM1 to the methylation landscape.
+5. Analysis the TE insertion and deletion events are from a same common ancestor, or an events frequently happened among different linkage.
+6. check if the gene loss/gain of CMT3/IBM1 analysis is reliable. to exclude the possibility of gene annotation error, maping arabidosis IBM1 gene directly to the whole genome reference. maybe also consider synteny analysis.
+7. built the concatenate species tree pipeline  
+find the single copy gene list  
+extract the protein sequence for each gene and do the alignment  
+concated all alignments  
+build ML tree/bootstrap  
+8. Trying to link the sequence and methylation changes in IBM1 to the methylation landscape.
